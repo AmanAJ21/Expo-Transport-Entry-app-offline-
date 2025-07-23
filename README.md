@@ -12,15 +12,6 @@ A modern React Native application built with Expo for data management and billin
 - **Secure Storage**: Local data persistence with encryption
 - **Print & Share**: Export and share reports
 
-## 📱 Download
-
-### Android APK
-[![Download APK](https://img.shields.io/badge/Download-APK-green?style=for-the-badge&logo=android)](https://drive.google.com/file/d/YOUR_FILE_ID/view?usp=sharing)
-
-*Latest version: v1.0.0*
-
-### QR Code for Easy Download
-![QR Code](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://drive.google.com/file/d/YOUR_FILE_ID/view?usp=sharing)
 
 ## 📱 Screenshots
 
@@ -49,9 +40,7 @@ A modern React Native application built with Expo for data management and billin
 ### Settings
 <img src="screenshots/settings.png" width="300" alt="Settings Screen">
 
-*App configuration, data management, and export/import features*
-
-</div>
+*App configuration, data management, and exp
 
 ## 🛠️ Tech Stack
 
