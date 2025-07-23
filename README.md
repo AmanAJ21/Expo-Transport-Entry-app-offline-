@@ -16,15 +16,42 @@ A modern React Native application built with Expo for data management and billin
 
 <div align="center">
 
-| Home Screen | Owner Management | Transport Management |
-|-------------|------------------|---------------------|
-| <img src="./screenshots/Home.jpeg" width="250" alt="Home Screen"> | <img src="./screenshots/Owner.jpeg" width="250" alt="Owner Screen"> | <img src="./screenshots/Transport.jpeg" width="250" alt="Transport Screen"> |
-| Dashboard with bill insights | Manage owner data with actions | Track transport bills with status |
+### Main Features
+<table>
+  <tr>
+    <td align="center">
+      <img src="./screenshots/Home.png" width="200" alt="Home Screen"><br>
+      <b>Home Screen</b><br>
+      <sub>Dashboard with bill insights</sub>
+    </td>
+    <td align="center">
+      <img src="./screenshots/Owner.png" width="200" alt="Owner Screen"><br>
+      <b>Owner Management</b><br>
+      <sub>Manage owner data with actions</sub>
+    </td>
+    <td align="center">
+      <img src="./screenshots/Transport.png" width="200" alt="Transport Screen"><br>
+      <b>Transport Management</b><br>
+      <sub>Track transport bills with status</sub>
+    </td>
+  </tr>
+</table>
 
-| Reports | Settings |
-|---------|----------|
-| <img src="./screenshots/Report.jpeg" width="250" alt="Report Screen"> | <img src="./screenshots/Setting.jpeg" width="250" alt="Settings Screen"> |
-| Generate comprehensive reports | App configuration and data management |
+### Reports & Settings
+<table>
+  <tr>
+    <td align="center">
+      <img src="./screenshots/Report.png" width="200" alt="Report Screen"><br>
+      <b>Reports</b><br>
+      <sub>Generate comprehensive reports</sub>
+    </td>
+    <td align="center">
+      <img src="./screenshots/Setting.png" width="200" alt="Settings Screen"><br>
+      <b>Settings</b><br>
+      <sub>App configuration and data management</sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
