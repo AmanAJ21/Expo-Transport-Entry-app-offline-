@@ -160,8 +160,4 @@ For support and questions, please contact the development team.
 
 ---
 
-Built with ❤️ usiuestions, please contact the development team.
-
----
-
 Built with ❤️ using React Native and Expo
