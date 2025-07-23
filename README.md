@@ -12,35 +12,31 @@ A modern React Native application built with Expo for data management and billin
 - **Secure Storage**: Local data persistence with encryption
 - **Print & Share**: Export and share reports
 
+## 📱 Download
+
+### Android APK
+[![Download APK](https://img.shields.io/badge/Download-APK-green?style=for-the-badge&logo=android)](https://drive.google.com/file/d/YOUR_FILE_ID/view?usp=sharing)
+
+*Latest version: v1.0.0*
+
+### QR Code for Easy Download
+![QR Code](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://drive.google.com/file/d/YOUR_FILE_ID/view?usp=sharing)
 
 ## 📱 Screenshots
 
 <div align="center">
 
-### Home Screen
-<img src="screenshots/home.png" width="300" alt="Home Screen">
+| Home Screen | Owner Management | Transport Management |
+|-------------|------------------|---------------------|
+| <img src="https://raw.githubusercontent.com/AmanAJ21/Expo-Transport-Entry-app-offline-/main/screenshots/home.png" width="250" alt="Home Screen"> | <img src="https://raw.githubusercontent.com/AmanAJ21/Expo-Transport-Entry-app-offline-/main/screenshots/owner.png" width="250" alt="Owner Screen"> | <img src="https://raw.githubusercontent.com/AmanAJ21/Expo-Transport-Entry-app-offline-/main/screenshots/transport.png" width="250" alt="Transport Screen"> |
+| Dashboard with bill insights | Manage owner data with actions | Track transport bills with status |
 
-*Dashboard with bill insights and business information*
+| Reports | Settings |
+|---------|----------|
+| <img src="https://raw.githubusercontent.com/AmanAJ21/Expo-Transport-Entry-app-offline-/main/screenshots/report.png" width="250" alt="Report Screen"> | <img src="https://raw.githubusercontent.com/AmanAJ21/Expo-Transport-Entry-app-offline-/main/screenshots/settings.png" width="250" alt="Settings Screen"> |
+| Generate comprehensive reports | App configuration and data management |
 
-### Owner Management
-<img src="screenshots/owner.png" width="300" alt="Owner Screen">
-
-*Manage owner data with search, view, update, and PDF generation*
-
-### Transport Management  
-<img src="screenshots/transport.png" width="300" alt="Transport Screen">
-
-*Track transport bills with status indicators and actions*
-
-### Reports
-<img src="screenshots/report.png" width="300" alt="Report Screen">
-
-*Generate comprehensive reports with PDF export*
-
-### Settings
-<img src="screenshots/settings.png" width="300" alt="Settings Screen">
-
-*App configuration, data management, and exp
+</div>
 
 ## 🛠️ Tech Stack
 
@@ -66,7 +62,7 @@ Before running this project, make sure you have:
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/AmanAJ21/Expo-Transport-Entry-app-offline-.git
    cd JData
    ```
 
