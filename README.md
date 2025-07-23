@@ -12,9 +12,46 @@ A modern React Native application built with Expo for data management and billin
 - **Secure Storage**: Local data persistence with encryption
 - **Print & Share**: Export and share reports
 
+## 📱 Download
+
+### Android APK
+[![Download APK](https://img.shields.io/badge/Download-APK-green?style=for-the-badge&logo=android)](https://drive.google.com/file/d/YOUR_FILE_ID/view?usp=sharing)
+
+*Latest version: v1.0.0*
+
+### QR Code for Easy Download
+![QR Code](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://drive.google.com/file/d/YOUR_FILE_ID/view?usp=sharing)
+
 ## 📱 Screenshots
 
-<!-- Add screenshots here -->
+<div align="center">
+
+### Home Screen
+<img src="screenshots/home.png" width="300" alt="Home Screen">
+
+*Dashboard with bill insights and business information*
+
+### Owner Management
+<img src="screenshots/owner.png" width="300" alt="Owner Screen">
+
+*Manage owner data with search, view, update, and PDF generation*
+
+### Transport Management  
+<img src="screenshots/transport.png" width="300" alt="Transport Screen">
+
+*Track transport bills with status indicators and actions*
+
+### Reports
+<img src="screenshots/report.png" width="300" alt="Report Screen">
+
+*Generate comprehensive reports with PDF export*
+
+### Settings
+<img src="screenshots/settings.png" width="300" alt="Settings Screen">
+
+*App configuration, data management, and export/import features*
+
+</div>
 
 ## 🛠️ Tech Stack
 
