@@ -12,28 +12,18 @@ A modern React Native application built with Expo for data management and billin
 - **Secure Storage**: Local data persistence with encryption
 - **Print & Share**: Export and share reports
 
-## 📱 Download
-
-### Android APK
-[![Download APK](https://img.shields.io/badge/Download-APK-green?style=for-the-badge&logo=android)](https://drive.google.com/file/d/YOUR_FILE_ID/view?usp=sharing)
-
-*Latest version: v1.0.0*
-
-### QR Code for Easy Download
-![QR Code](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://drive.google.com/file/d/YOUR_FILE_ID/view?usp=sharing)
-
 ## 📱 Screenshots
 
 <div align="center">
 
 | Home Screen | Owner Management | Transport Management |
 |-------------|------------------|---------------------|
-| <img src="https://raw.githubusercontent.com/AmanAJ21/Expo-Transport-Entry-app-offline-/main/screenshots/home.png" width="250" alt="Home Screen"> | <img src="https://raw.githubusercontent.com/AmanAJ21/Expo-Transport-Entry-app-offline-/main/screenshots/owner.png" width="250" alt="Owner Screen"> | <img src="https://raw.githubusercontent.com/AmanAJ21/Expo-Transport-Entry-app-offline-/main/screenshots/transport.png" width="250" alt="Transport Screen"> |
+| <img src="./screenshots/Home.jpeg" width="250" alt="Home Screen"> | <img src="./screenshots/Owner.jpeg" width="250" alt="Owner Screen"> | <img src="./screenshots/Transport.jpeg" width="250" alt="Transport Screen"> |
 | Dashboard with bill insights | Manage owner data with actions | Track transport bills with status |
 
 | Reports | Settings |
 |---------|----------|
-| <img src="https://raw.githubusercontent.com/AmanAJ21/Expo-Transport-Entry-app-offline-/main/screenshots/report.png" width="250" alt="Report Screen"> | <img src="https://raw.githubusercontent.com/AmanAJ21/Expo-Transport-Entry-app-offline-/main/screenshots/settings.png" width="250" alt="Settings Screen"> |
+| <img src="./screenshots/Report.jpeg" width="250" alt="Report Screen"> | <img src="./screenshots/Setting.jpeg" width="250" alt="Settings Screen"> |
 | Generate comprehensive reports | App configuration and data management |
 
 </div>
@@ -140,6 +130,10 @@ This project is private and proprietary.
 ## 📞 Support
 
 For support and questions, please contact the development team.
+
+---
+
+Built with ❤️ usiuestions, please contact the development team.
 
 ---
 
